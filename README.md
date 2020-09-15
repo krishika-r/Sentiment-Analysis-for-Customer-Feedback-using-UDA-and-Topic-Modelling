@@ -26,3 +26,5 @@ Topic Modeling is a process which automatically identify topics present in a tex
 In our case, instead of text documents, we have thousands of online product reviews for the items.Our aim is to extract a certain groups of important words from the reviews. These group of words are basically the topics which would help in ascertaining what the consumers are actually talking about in the reviews.
 
 # Workflow
+
+![image2](https://user-images.githubusercontent.com/36788439/93237425-b5c90e00-f79d-11ea-9bf4-a29995b9878a.png)
