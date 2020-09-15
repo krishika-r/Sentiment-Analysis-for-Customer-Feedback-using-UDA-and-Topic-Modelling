@@ -19,3 +19,10 @@ Topic Modeling is a process which automatically identify topics present in a tex
 
 ●	Feature selection
 
+ The below image illustrates how topic model works:
+
+![image](https://user-images.githubusercontent.com/36788439/93236942-0f7d0880-f79d-11ea-9f24-5b14d6eb6941.png)
+
+In our case, instead of text documents, we have thousands of online product reviews for the items.Our aim is to extract a certain groups of important words from the reviews. These group of words are basically the topics which would help in ascertaining what the consumers are actually talking about in the reviews.
+
+# Workflow
